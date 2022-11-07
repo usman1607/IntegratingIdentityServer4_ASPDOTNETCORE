@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDServer", "IDServer\IDServer.csproj", "{F378212B-9EB3-4CAD-BDD5-D82B49D40DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{B0C0B244-37A4-44A9-8871-357F3528E06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{57FBA18F-57BF-4D10-B680-F4A08A984BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F378212B-9EB3-4CAD-BDD5-D82B49D40DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F378212B-9EB3-4CAD-BDD5-D82B49D40DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F378212B-9EB3-4CAD-BDD5-D82B49D40DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F378212B-9EB3-4CAD-BDD5-D82B49D40DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C0B244-37A4-44A9-8871-357F3528E06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C0B244-37A4-44A9-8871-357F3528E06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C0B244-37A4-44A9-8871-357F3528E06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C0B244-37A4-44A9-8871-357F3528E06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FBA18F-57BF-4D10-B680-F4A08A984BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FBA18F-57BF-4D10-B680-F4A08A984BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FBA18F-57BF-4D10-B680-F4A08A984BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FBA18F-57BF-4D10-B680-F4A08A984BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE703773-43AA-4927-A590-2716F1A19670}
+	EndGlobalSection
+EndGlobal
